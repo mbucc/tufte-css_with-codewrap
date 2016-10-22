@@ -1,0 +1,7 @@
+There was a long and informative thread on PR #90 for tufte-css project 
+(https://github.com/edwardtufte/tufte-css/pull/90).
+
+In the end, the author decided not to include the code wrapping CSS.  This
+patch applies that wrapping to tufte-css style.
+
+For an example of how the styling changes, see before.png and after.png.
