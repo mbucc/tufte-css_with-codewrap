@@ -11,3 +11,6 @@ For an example of how the styling changes, see before.png and after.png.
 These show a screenshot of a very narrow Chrome window with code that is
 longer than the window width.
 
+	v1.1 applies to 1.1 tag in tufte-css
+	HEAD should apply to current master
+
