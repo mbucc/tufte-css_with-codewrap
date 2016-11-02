@@ -1,6 +1,6 @@
 	INSTRUCTIONS
 
-		1. Get tufte-css, v1.1:
+		1. Get tufte-css.
 
 			$ git clone https://github.com/edwardtufte/tufte-css.git
 
@@ -11,15 +11,7 @@
 		3. Apply patch:
 
 			$ cd tufte-css
-			$ patch<../tufte-css_with-codewrap/v1.1_with-codewrap.patch
-
-	If patch doesn't apply to HEAD, try v1.1 tag of tufte-css; ie,
-
-			$ cd tufte-css
-			$ git checkout tags/v1.1
-			$ patch<../tufte-css_with-codewrap/v1.1_with-codewrap.patch
-
-
+			$ patch<../tufte-css_with-codewrap/HEAD_with-codewrap.patch
 
 --- /dev/null	1969-12-31 19:00:00.000000000 -0500
 +++ ./img/line-wrap-arrow.svg	2016-09-17 18:33:22.000000000 -0400
